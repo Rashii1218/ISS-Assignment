@@ -1,1 +1,3 @@
-# ISS-Assignment-
+# ISS-Assignment
+
+This repository contains  Core Java, DBMS, Client-Side Programming, Server-Side Integration, and Python. It includes Java fundamentals, OOP concepts, exception handling, collections, multithreading, file handling, and JDBC, along with SQL queries, database concepts, and normalization. The project also demonstrates client-side technologies such as HTML, CSS, and JavaScript validations, and server-side development using JSP and Servlets with a Login and Registration application deployed on Apache Tomcat. Python programs covering basics, data types, control flow, functions, and error handling are organized topic-wise for easy learning and revision.
